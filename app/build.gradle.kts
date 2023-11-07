@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace = "com.example.linearlayout1"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.linearlayout1"
-        minSdk = 24
+        minSdk = 28
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
